@@ -1,0 +1,137 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 7.288 s <<< FAILURE! - in runner.TestRunner
+Add and Remove a Mac book from Cart(Laptop and NoteBooks)  Time elapsed: 0.813 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User click on Laptop &NoteBook tab' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("User click on Laptop &NoteBook tab")
+public void user_click_on_laptop_note_book_tab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User click on Show all Laptop &NoteBook option")
+public void user_click_on_show_all_laptop_note_book_option() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User click on MacBook item")
+public void user_click_on_mac_book_item() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User should see {string} showed to the cart")
+public void user_should_see_showed_to_the_cart(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User click on cart option")
+public void user_click_on_cart_option() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user click on red X button to remove the item from cart")
+public void user_click_on_red_x_button_to_remove_the_item_from_cart() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("item should be removed and cart should show {int} items")
+public void item_should_be_removed_and_cart_should_show_items(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Product Comparison(Laptop and NoteBooks)  Time elapsed: 0.053 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User click on Laptop &NoteBook tab' and 5 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("User click on Laptop &NoteBook tab")
+public void user_click_on_laptop_note_book_tab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User click on Show all Laptop &NoteBook option")
+public void user_click_on_show_all_laptop_note_book_option() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User click on product comparison icon on MacBook")
+public void user_click_on_product_comparison_icon_on_mac_book() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User click on product comparison icon on MacBook Air")
+public void user_click_on_product_comparison_icon_on_mac_book_air() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User click on Product comparison link")
+public void user_click_on_product_comparison_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User should see Product Comparison Chart")
+public void user_should_see_product_comparison_chart() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Adding an item to Wish list(Laptop and NoteBooks)  Time elapsed: 0.031 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User click on Laptop &NoteBook tab' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("User click on Laptop &NoteBook tab")
+public void user_click_on_laptop_note_book_tab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User click on Show all Laptop &NoteBook option")
+public void user_click_on_show_all_laptop_note_book_option() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User click on heart icon to add Sony VaIO laptop to wish list")
+public void user_click_on_heart_icon_to_add_sony_va_io_laptop_to_wish_list() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User should get a Message {string}")
+public void user_should_get_a_message(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Validate the price of MacBook Pro is 2000(Laptop and NoteBooks)  Time elapsed: 0.087 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User click on Laptop &NoteBook tab' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("User click on Laptop &NoteBook tab")
+public void user_click_on_laptop_note_book_tab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User click on Show all Laptop &NoteBook option")
+public void user_click_on_show_all_laptop_note_book_option() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User click on MacBook Pro item")
+public void user_click_on_mac_book_pro_item() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User should see {string} price tag is present on UI.")
+public void user_should_see_price_tag_is_present_on_ui(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
