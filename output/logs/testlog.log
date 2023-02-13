@@ -4485,3 +4485,31 @@
 2022-07-28 11:51:44,237 - logger_File -INFO - User clicked on shopping cart successfully
 2022-07-28 11:51:47,330 - logger_File -INFO - Your shoping is empty message varified successfully
 2022-07-28 11:51:55,252 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-08-25 19:20:29,432 - logger_File -INFO - Scenario User verify currency values change started
+2022-08-25 19:20:39,346 - logger_File -INFO - Retail website page varified succesfully
+2022-08-25 19:20:42,450 - logger_File -INFO - User clicked on currency successfuly
+2022-08-25 19:20:46,419 - logger_File -INFO - User selected Euro currency successfully
+2022-08-25 19:20:49,482 - logger_File -INFO - Currency change to Euro Varified successfully
+2022-08-25 19:20:56,385 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-08-25 19:20:56,433 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-08-25 19:21:01,332 - logger_File -INFO - Retail website page varified succesfully
+2022-08-25 19:21:04,917 - logger_File -INFO - User clicked on shopping cart successfully
+2022-08-25 19:21:07,982 - logger_File -INFO - Your shoping is empty message varified successfully
+2022-08-25 19:21:14,285 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-08-25 20:44:39,328 - logger_File -INFO - Scenario User verify currency values change started
+2022-08-25 20:44:49,536 - logger_File -INFO - Retail website page varified succesfully
+2022-08-25 20:44:52,756 - logger_File -INFO - User clicked on currency successfuly
+2022-08-25 20:44:57,335 - logger_File -INFO - User selected Euro currency successfully
+2022-08-25 20:45:00,403 - logger_File -INFO - Currency change to Euro Varified successfully
+2022-08-25 20:45:04,998 - logger_File -INFO - Scenario User verify currency values change PASSED
+2023-02-01 14:58:06,245 - logger_File -INFO - Scenario User verify currency values change started
+2023-02-01 14:58:14,768 - logger_File -INFO - Retail website page varified succesfully
+2023-02-01 14:58:17,926 - logger_File -INFO - User clicked on currency successfuly
+2023-02-01 14:58:22,047 - logger_File -INFO - User selected Euro currency successfully
+2023-02-01 14:58:25,122 - logger_File -INFO - Currency change to Euro Varified successfully
+2023-02-01 14:58:29,500 - logger_File -INFO - Scenario User verify currency values change PASSED
+2023-02-01 14:58:29,565 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2023-02-01 14:58:34,503 - logger_File -INFO - Retail website page varified succesfully
+2023-02-01 14:58:38,371 - logger_File -INFO - User clicked on shopping cart successfully
+2023-02-01 14:58:41,452 - logger_File -INFO - Your shoping is empty message varified successfully
+2023-02-01 14:58:45,625 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED

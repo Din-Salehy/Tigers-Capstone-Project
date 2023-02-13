@@ -4485,3 +4485,31 @@
 2022-07-28 11:51:44,237 [main] INFO logger_File - User clicked on shopping cart successfully
 2022-07-28 11:51:47,330 [main] INFO logger_File - Your shoping is empty message varified successfully
 2022-07-28 11:51:55,252 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-08-25 19:20:29,432 [main] INFO logger_File - Scenario User verify currency values change started
+2022-08-25 19:20:39,346 [main] INFO logger_File - Retail website page varified succesfully
+2022-08-25 19:20:42,450 [main] INFO logger_File - User clicked on currency successfuly
+2022-08-25 19:20:46,419 [main] INFO logger_File - User selected Euro currency successfully
+2022-08-25 19:20:49,482 [main] INFO logger_File - Currency change to Euro Varified successfully
+2022-08-25 19:20:56,385 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-08-25 19:20:56,433 [main] INFO logger_File - Scenario User empty Shopping cart message displays started
+2022-08-25 19:21:01,332 [main] INFO logger_File - Retail website page varified succesfully
+2022-08-25 19:21:04,917 [main] INFO logger_File - User clicked on shopping cart successfully
+2022-08-25 19:21:07,982 [main] INFO logger_File - Your shoping is empty message varified successfully
+2022-08-25 19:21:14,285 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-08-25 20:44:39,328 [main] INFO logger_File - Scenario User verify currency values change started
+2022-08-25 20:44:49,536 [main] INFO logger_File - Retail website page varified succesfully
+2022-08-25 20:44:52,756 [main] INFO logger_File - User clicked on currency successfuly
+2022-08-25 20:44:57,335 [main] INFO logger_File - User selected Euro currency successfully
+2022-08-25 20:45:00,403 [main] INFO logger_File - Currency change to Euro Varified successfully
+2022-08-25 20:45:04,998 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2023-02-01 14:58:06,245 [main] INFO logger_File - Scenario User verify currency values change started
+2023-02-01 14:58:14,768 [main] INFO logger_File - Retail website page varified succesfully
+2023-02-01 14:58:17,926 [main] INFO logger_File - User clicked on currency successfuly
+2023-02-01 14:58:22,047 [main] INFO logger_File - User selected Euro currency successfully
+2023-02-01 14:58:25,122 [main] INFO logger_File - Currency change to Euro Varified successfully
+2023-02-01 14:58:29,500 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2023-02-01 14:58:29,565 [main] INFO logger_File - Scenario User empty Shopping cart message displays started
+2023-02-01 14:58:34,503 [main] INFO logger_File - Retail website page varified succesfully
+2023-02-01 14:58:38,371 [main] INFO logger_File - User clicked on shopping cart successfully
+2023-02-01 14:58:41,452 [main] INFO logger_File - Your shoping is empty message varified successfully
+2023-02-01 14:58:45,625 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
